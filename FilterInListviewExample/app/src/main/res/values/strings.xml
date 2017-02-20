@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FilterInListviewExample</string>
+    <string name="hint_text">enter item to be searched</string>
+</resources>
